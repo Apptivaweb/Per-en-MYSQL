@@ -1,4 +1,4 @@
-# Peru-en-MYSQL
+# Perú en MYSQL
 Regiones, Provincias y Distritos del Perú en Mysql
 ENCONTRARÁS
 El código para generar las tres tablas (no estan relacionadas)
